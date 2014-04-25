@@ -1,6 +1,6 @@
 ******************************************************************************************
 
-Emblem Knight, an IOS Strategy game developed by Xi Zhang, Yan Chen and Shi Linxun
+Emblem Knight, an IOS Strategy game developed by Xi Zhang, Yan Chen and Linxun Shi
 
 
 ******************************************************************************************
